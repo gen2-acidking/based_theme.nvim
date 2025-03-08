@@ -62,6 +62,5 @@ Once installed, load the theme with:
 - Works with Neovim 0.8+  
 
 ## License  
-This theme is released under the MIT License.  
-See LICENSE for details.
+This theme is released under the [MIT License](./LICENSE).  
 
